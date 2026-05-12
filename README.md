@@ -2,6 +2,11 @@
 
 An AI-powered data analysis platform that turns natural language into insights. Upload your data, ask questions in plain language, and get visualizations, statistics, and reports — no code required.
 
+[![Python](assets/Python-3.10+-blue.svg)](https://python.org)
+[![Vue](assets/Vue-3.x-brightgreen.svg)](https://vuejs.org)
+[![FastAPI](assets/FastAPI-0.115+-009688.svg)](https://fastapi.tiangolo.com)
+[![License](assets/License-MIT-yellow.svg)](LICENSE)
+
 ## Screenshots
 
 ### Homepage
